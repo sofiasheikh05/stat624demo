@@ -1,4 +1,3 @@
+echo "print("Hello World")"
+echo "print("Update")"
 
-
-
-echo "print("Different Update")"
